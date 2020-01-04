@@ -1,4 +1,4 @@
-## Learning a new language steps < my change from local >
+## Learning a new language steps < my first change in local >
 
 ### To start Research questions:
 - ask yourself why you want / need to learn it.
